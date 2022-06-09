@@ -1,0 +1,5 @@
+
+Steps to Solve:
+
+1. exiftool cat.jpg
+2. Strange License. Ran it through base64 decode
